@@ -1,0 +1,61 @@
+<!doctype html>
+            
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>text page</title>
+
+  <style> 
+div {
+    background-color: rgb(190, 151, 227);
+    width: 400px;
+    height: 200px;
+    margin: 50px;
+    margin-left: 20px;
+    padding: 50px;
+    border: 10px solid rgb(144, 104, 209)
+
+    }
+    .two {
+        background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(249,12,120,1) 50%, rgba(252,176,69,1) 100%);
+        width: 300px;
+        border: 15px solid orange
+    
+    }
+
+        .bill {
+            border-radius: 20%;
+            background-color: aquamarine;
+            border: 25px solid beige
+
+    }
+    .lordhelpme {
+        box-shadow: 20px 10px 20px grey; 
+        background-color: azure;
+        border: 10px solid rgb(255, 65, 182)
+    }
+
+
+
+  </style>
+</head>
+     
+<body>
+
+    <div>
+        <p>god help me</p>
+
+    </div>
+   
+
+    <div class="two"></div>
+
+    <div class="bill"></div>
+
+    <div class="lordhelpme"></div>
+  
+</body>
+
+</html>
